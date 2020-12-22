@@ -6,6 +6,6 @@
 
 ## Домашние задания по [семинарам 3-4](https://github.com/MelnikovaVV/vladavlada.github.io/wiki/Деловая-игра)
 
-## [Отчет]() по лабораторным работам 4-6
+## [Отчет](https://github.com/vivatgeorge/squad/wiki/Отчет-2) по лабораторным работам 4-6 
 
 ## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam14-2) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam13-4)
