@@ -4,7 +4,7 @@
 
 ## [Отчет](https://github.com/MelnikovaVV/vladavlada.github.io/wiki/%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%BE-%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%85-%E2%84%961,-2,-3) по лабораторным работам 1-3
 
-## Домашние задания по [семинарам 3-4](https://github.com/vivatgeorge/squad/wiki/%D0%9E%D1%82%D1%87%D0%B5%D1%82)
+## Домашние задания по [семинарам 3-4](https://github.com/MelnikovaVV/vladavlada.github.io/wiki/Деловая-игра)
 
 ## [Отчет]() по лабораторным работам 4-6
 
