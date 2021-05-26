@@ -1,0 +1,24 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Stream as "Роли"
+class In as "Менеджер"
+class Out as "Покупатель"
+class Management as "Онлайн-платформа Tilda"
+class Info as "Обработка заказа"
+class Info1 as "Совершение заказа"
+
+Stream<|-- In
+Stream<|-- Out
+Stream<|-- Management
+
+In<|-- Info
+Out<|-- Info1
+
+hide members
+hide circle
+hide methods
+@enduml
